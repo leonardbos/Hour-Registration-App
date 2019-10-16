@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/nav_project"
-        android:name="com.hra.hourregistrationapp.ui.logout.LogoutFragment"
+        android:name="com.hra.hourregistrationapp.ui.projects.ProjectsFragment"
         android:label="@string/menu_projects"
         tools:layout="@layout/fragment_projects" />
 
