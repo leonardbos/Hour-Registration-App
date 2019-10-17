@@ -5,7 +5,7 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_calendar"
+            android:id="@+id/nav_calendar_menu_item"
             android:icon="@drawable/ic_view_agenda_blue_24dp"
             android:title="@string/menu_calendar" />
         <item
